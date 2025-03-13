@@ -99,4 +99,4 @@ I am good Client 1
 
 Inspired by the classic 'Hello, World!' of network programming - an Echo server.
 
-Built as part of a [coding challenge](https://codingchallenges.fyi/challenges/challenge-realtime-chat#help-others-by-sharing-your-solutions) to learn about sockets and multithreading in Java.
+Built as part of a [coding challenge](https://codingchallenges.fyi/challenges/challenge-realtime-chat/) to learn about sockets and multithreading in Java.
